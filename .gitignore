@@ -1,0 +1,10 @@
+/bin
+.vscode
+nbproject
+*.exe
+*.elf
+*.tmp
+*.o
+.DS_Store
+Thumbs.db
+Desktop.ini
